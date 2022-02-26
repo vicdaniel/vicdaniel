@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to eventually collaborate with like-minded souls! 
-- 📫 I can be reached at research0845@rogers.com.
+- 📫 I can be reached at research0845@rogers.com
 -  
 As many items of interest are stored on GitHub, it's also time that I learn how to properly use it.
 
